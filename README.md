@@ -81,7 +81,7 @@ LiDARの反射強度とDBSCANクラスタリングを用いて、道路上の白
 
 ## 動作環境・依存ライブラリ
 
-- ROS 2（動作確認したディストリビューション・OSのバージョンは公開前に追記してください）
+- ROS 2
 - Python 3
 - ROS 2 Pythonパッケージ：`rclpy`, `sensor_msgs`, `nav_msgs`, `std_msgs`
 - Pythonライブラリ：`numpy`, `scikit-learn`
